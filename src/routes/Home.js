@@ -19,7 +19,8 @@ function Home() {
     console.log(movies);
     return (
       <div>
-        {loading ? <h1>Loading...</h1> : <div> 
+        {loading ? <h1>Loading...</h1> : <div>
+            <h1>임시 테스트중</h1> 
           {movies.map((movie) => (
             <Movie
             key={movie.id}
