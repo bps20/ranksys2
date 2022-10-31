@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/ranksys2/static/js/main.e2d7bf59.js",
+    "main.css": "/ranksys2/static/css/main.03b40807.css",
+    "main.js": "/ranksys2/static/js/main.13206959.js",
     "index.html": "/ranksys2/index.html",
-    "main.e2d7bf59.js.map": "/ranksys2/static/js/main.e2d7bf59.js.map"
+    "main.03b40807.css.map": "/ranksys2/static/css/main.03b40807.css.map",
+    "main.13206959.js.map": "/ranksys2/static/js/main.13206959.js.map"
   },
   "entrypoints": [
-    "static/js/main.e2d7bf59.js"
+    "static/css/main.03b40807.css",
+    "static/js/main.13206959.js"
   ]
 }
