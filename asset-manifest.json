@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/ranksys2/static/js/main.a8fcdec9.js",
+    "main.js": "/ranksys2/static/js/main.3ee16074.js",
     "index.html": "/ranksys2/index.html",
-    "main.a8fcdec9.js.map": "/ranksys2/static/js/main.a8fcdec9.js.map"
+    "main.3ee16074.js.map": "/ranksys2/static/js/main.3ee16074.js.map"
   },
   "entrypoints": [
-    "static/js/main.a8fcdec9.js"
+    "static/js/main.3ee16074.js"
   ]
 }
